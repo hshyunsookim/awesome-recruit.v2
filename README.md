@@ -1,23 +1,23 @@
 남산 타워가 보이는 환상적인 업무 공간, <br>
-<img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_150644.jpg" height="200">
+<img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_150644.jpg" width="300">
 <br>
 
 일반 서버 250대 수준의 연산능력을 자랑하는 DGX-1을 비롯한 최고의 연구 장비, <br>
-<img src="https://github.com/SKTBrain/awesome-recruit/blob/master/14713007_318099875227500_2006563244611974202_o.jpg" height="200">
+<img src="https://github.com/SKTBrain/awesome-recruit/blob/master/14713007_318099875227500_2006563244611974202_o.jpg" width="300">
 <br>
 
 당신의 휴식을 책임질 수면 캡슐과 빈백, <br>
-<img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_150756.jpg" height="200">
-<img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_150741.jpg" height="200">
+<img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_150756.jpg" width="300">
+<img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_150741.jpg" width="300">
 <br>
 
 당신의 허리를 책임질 스탠딩 데스크, <br>
-<img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_160211.jpg" height="200">
+<img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_160211.jpg" width="300">
 <br>
 
 그리고 파티션으로 나뉜 답답한 사무실 대신 시끌벅적한 토론 중심의 개방형 사무실이 있는 회사가 있다면 어떨까요? 
 <br>
-<img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_162108.jpg" height="200">
+<img src="https://github.com/SKTBrain/awesome-recruit/blob/master/20161013_162108.jpg" width="300">
 <br>
 
 뿐만 아니라 자유로운 출퇴근과 수평적인 조직 문화, 그리고 동종 업계 최고 수준의 연봉까지, 저희는 혁신에 필요한 모든 조건을 "거의" 갖추고 있습니다! 지금 저희에게 부족한 것은 단 하나... 바로 당신입니다.
